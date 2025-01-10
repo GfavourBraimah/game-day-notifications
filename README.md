@@ -49,7 +49,7 @@ nba-game-day-notifications/
 ## **Setup Instruction**
 ## **Clone the Repository**
 ```
-git clone https://github.com/yourusername/nba-game-day-notifications.git
+git clone https://github.com/GfavourBraimah/game-day-notifications
 cd nba-game-day-notifications
 ```
 ## **Create an SNS Topic**
